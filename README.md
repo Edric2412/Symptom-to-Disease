@@ -6,7 +6,7 @@
 
 MediTalk is an innovative AI-powered chatbot designed to revolutionize the way users interact with healthcare information. The application uses a fine-tuned Sentence-BERT model to analyze patient symptoms and provide potential medical diagnoses.
 
-![Meditalk Interface](./Screenshot 2025-03-23 170607.png)
+![Meditalk Interface](./assets/meditalk_interface.png)
 ## Features
 
 - **Symptom Analysis**: Users can describe their symptoms in natural language
