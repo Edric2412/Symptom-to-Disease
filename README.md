@@ -1,6 +1,8 @@
 # MediTalk - AI Healthcare Assistant using BERT
+[![BERT Sentence Transformer](https://img.shields.io/badge/BERT-Sentence_Transformer-blue?style=flat-square&logo=pytorch&logoColor=white)](https://www.sbert.net/)
+![Meditalk](https://img.shields.io/badge/Status-Active-brightgreen)
+![Accuracy](https://img.shields.io/badge/Accuracy-83%25-success)
 
-![MediTalk Interface](https://github.com/yourusername/meditalk/raw/main/screenshots/interface.png)
 
 MediTalk is an innovative AI-powered chatbot designed to revolutionize the way users interact with healthcare information. The application uses a fine-tuned Sentence-BERT model to analyze patient symptoms and provide potential medical diagnoses.
 
