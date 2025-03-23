@@ -73,7 +73,7 @@ meditalk/
 
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/meditalk.git
+   git clone https://github.com/Edric2412/Symptom-to-Disease.git
    cd meditalk
    ```
 
