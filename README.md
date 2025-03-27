@@ -69,8 +69,14 @@ meditalk/
 - Node.js and npm (for development)
 - 4GB+ RAM for model inference
 
-### Installation
+## Chatbot Model
+This repository uses a pre-trained chatbot model hosted on [Hugging Face](https://huggingface.co/Edric2412/Meditalk).  
+Download it using:
+```
+git clone https://huggingface.co/Edric2412/Meditalk
+```
 
+### Installation
 1. Clone the repository
    ```
    git clone https://github.com/Edric2412/Symptom-to-Disease.git
